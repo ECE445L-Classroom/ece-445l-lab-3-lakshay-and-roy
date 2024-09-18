@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Word Doc
+~$*
+
 # Object files
 *.ko
 *.obj
